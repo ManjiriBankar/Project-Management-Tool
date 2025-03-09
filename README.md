@@ -83,8 +83,7 @@ Contributions are welcome! Follow these steps to contribute:
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any queries, feel free to reach out to **AtharvaB1209** on GitHub.
+
 
 
 
